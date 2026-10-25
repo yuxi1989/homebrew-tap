@@ -1,6 +1,6 @@
 cask "codex-retrypilot" do
-  version "1.0.3"
-  sha256 "eaa75f2cd9f6be3c888f33eaab07697deac3675fc6bb2c66839cc4996a760ba3"
+  version "1.0.4"
+  sha256 "cde3035f94d51b2e19a7a0916215285fe44684939ed0118a77137d5c666ad35a"
 
   url "https://github.com/yuxi1989/Codex-RetryPilot/releases/download/v#{version}/Codex-RetryPilot-#{version}.zip"
   name "Codex-RetryPilot"
