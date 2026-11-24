@@ -14,6 +14,8 @@ cask "codex-retrypilot" do
 
   depends_on macos: :ventura
 
+  deprecate! date: "2026-11-24", because: :unmaintained
+
   app "Codex-RetryPilot.app"
 
   zap trash: "~/Library/Application Support/CodexRetry"
